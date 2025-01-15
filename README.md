@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=slice&color=random&height=400&text=Welcome!&animation=twinkling&)
+
+I'm Runeiva, a frontend developer wannabe 👩🏻‍💻
+
+And this is my GitHub!
 
 <!--
 **runeiva/runeiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
