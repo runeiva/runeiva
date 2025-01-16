@@ -1,8 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=random&height=400&text=Welcome!&animation=twinkling&fontColor=ffffff&fontAlign=70&fontAlignY=30)
 
+
 I'm Runeiva, a frontend developer wannabe 👩🏻‍💻
 
 And this is my GitHub!
+
+This is where you can find me:
+![instagram](https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=Instagram&logoColor=white)]
 
 <!--
 **runeiva/runeiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
