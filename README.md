@@ -5,8 +5,7 @@ I'm Runeiva, a frontend developer wannabe 👩🏻‍💻
 
 And this is my GitHub!
 
-This is where you can find me:
-![instagram](https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=Instagram&logoColor=white)]
+![instagram](https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=Instagram&logoColor=white): Runeiva
 
 <!--
 **runeiva/runeiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
